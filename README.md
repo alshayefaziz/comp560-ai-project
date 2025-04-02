@@ -17,7 +17,7 @@ By combing NLP techniques such as; tokenization and TF-IDF vectorization, we aim
 We feel as if this would be an appropriate project because, as stated before, college students tend to struggle to figure out what to eat. Also, part of the college experience is meeting different types of people and being immersed in different cultures! We aim for this to be able to be a connective layer between friends and peers to experience and bring together different types of cultures.
 
 #### Minimum Viable Goal
-Our minimum viable goal would be for a user to enter a list of ingredients that they currently have or would like to use and the Cooking Assistant will be able to provide recipe(s) containing the ingredeints!
+Our minimum viable goal would be for a user to enter a list of ingredients that they currently have or would like to use and the Cooking Assistant will be able to provide recipe(s) containing the ingredients!
 
 #### Expected Goals
 
