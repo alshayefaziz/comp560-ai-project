@@ -2,6 +2,11 @@
 
 #### Authors: Abdulaziz Al-Shayef, Nabeel Abdul Rahman
 
+Some of the files in our project were too big to get uploaded to github. We have a file called FinalProjectResources.md that contains a video demonstrating the project, as well as a link to the Google Drive folder that contains all the code, essentially our repository. 
+
+
+Below is the abstract that was submitted as part of the mid-semester check-in. 
+
 ### Cultural Cooking Assistant
 
 As a college student, times can get busy and figuring out what to cook for dinner can add unncessary stress to the day. Also, isn't that same bowl of chicken and rice with broccoli just getting old? It's time to make finding new foods to make easier and more fun!
